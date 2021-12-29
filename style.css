@@ -1,0 +1,68 @@
+*{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(205, 235, 247,0.7);
+    font-family: 'Outfit', sans-serif;
+}
+#title{
+    width: 95%;
+    margin: auto;
+    background-color: rgb(164, 212, 243);
+}
+h1{
+    text-align: center;
+    padding: 25px;
+}
+p{
+    text-align: center;
+    padding: 25px;
+    font-size: 1.2rem;
+}
+#img-div{
+    display: flex;
+    flex-direction: column;
+    width: 95%;
+    margin: auto;
+    background-color: white;
+}
+#image{
+    width: 55%;
+    max-width: 700px;
+    margin: auto;
+    align-items: center;
+}
+#img-caption{
+    background-color: white;
+    text-align: center;
+    font-size: 1.2rem;
+}
+#tribute-info{
+    width: 95%;
+    margin: auto;
+    background-color: rgba(205, 235, 247,0.7);
+    text-align: center;
+    padding-top: 50px;
+}
+h2{
+    padding-bottom: 20px;
+}
+li{
+    width: 40%;
+    margin: auto;
+    text-align: justify;
+    padding-top: 20px;
+    font-size: 1.1rem;
+}
+.quote{
+    width: 40%;
+    margin: auto;
+    font-style: italic;
+    background-color: rgb(232, 240, 217);
+}
+#link{
+    width: 50%;
+    margin: auto;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
